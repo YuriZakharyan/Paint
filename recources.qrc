@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PaintIco.ico</file>
+        <file>eraser.png</file>
+        <file>Save.png</file>
+        <file>open.png</file>
+        <file>pencil.png</file>
+        <file>Text.png</file>
+        <file>round.png</file>
+        <file>rect.png</file>
+        <file>triangle.png</file>
+    </qresource>
+</RCC>
